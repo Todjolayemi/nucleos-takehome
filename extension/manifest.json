@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Nucleos Khan Academy sign-in",
+  "version": "1.0.0",
+  "description": "Signs the configured learner in to Khan Academy and reports the outcome honestly. Take-home exercise.",
+  "content_scripts": [
+    {
+      "matches": ["https://www.khanacademy.org/login*"],
+      "js": ["content.js"],
+      "css": ["toast.css"]
+    }
+  ],
+  "web_accessible_resources": []
+}
