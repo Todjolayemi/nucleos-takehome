@@ -95,7 +95,7 @@ The recording shows, in under four minutes, the headful onboarding run, the
 deliberately wrong config and Khan Academy's exact error toast, then the
 corrected config and the proof-based success toast.
 
-Recording link: https://we.tl/t-fvHhzCRYipMewHTX
+Recording link: https://drive.google.com/file/d/1yqw9xefagoeh9vqrlit6-_-b_d25qUkJ/view?usp=sharing
 
 ## Known limitations and next steps
 
