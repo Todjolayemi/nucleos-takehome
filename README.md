@@ -91,10 +91,9 @@ so they are isolated in the plumbing layer, not the decisions.
 
 ## Recording
 
-Add the recording link here before submission. The recording should show, in
-under four minutes, the headful onboarding run, the deliberately wrong config
-and Khan Academy's exact error toast, then the corrected config and the
-proof-based success toast. Do not show the real email or password.
+The recording shows, in under four minutes, the headful onboarding run, the
+deliberately wrong config and Khan Academy's exact error toast, then the
+corrected config and the proof-based success toast.
 
 Recording link: https://we.tl/t-fvHhzCRYipMewHTX
 
